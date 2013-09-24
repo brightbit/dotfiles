@@ -64,6 +64,8 @@ let g:airline_powerline_fonts = 1
 " More textobj-ruby bindings
 let g:textobj_ruby_more_mappings = 1
 
+map <leader>sw :%s/[\r \t]\+$//<CR>:w<CR>
+
 if filereadable(expand("~/.vimrc.local"))
   source ~/.vimrc.local
 endif
