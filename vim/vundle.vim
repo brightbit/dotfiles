@@ -11,6 +11,7 @@ Bundle 'tpope/vim-rake'
 Bundle 'wikitopian/hardmode'
 Bundle 'ReplaceWithRegister'
 Bundle 'itspriddle/vim-marked'
+Bundle 'editorconfig/editorconfig-vim'
 
 " Tmux
 Bundle 'benmills/vimux'
