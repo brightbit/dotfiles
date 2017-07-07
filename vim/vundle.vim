@@ -21,6 +21,7 @@ Bundle 'jingweno/vimux-zeus'
 " Bundle 'Yggdroot/indentLine' "NOTE: Disabling due to poor performance. See: https://github.com/Yggdroot/indentLine/issues/48
 Bundle 'bling/vim-airline'
 Bundle 'airblade/vim-gitgutter'
+Bundle 'w0rp/ale' " Code linter (ESLint)
 
 " Editing
 Bundle 'godlygeek/tabular'
